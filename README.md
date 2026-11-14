@@ -4,3 +4,4 @@ Proyecto de automatizacion en Python sobre Linux para consultar datos mediante H
 
 ## Ejecucion
 python3 src/inventario.py
+- Manejo de errores HTTP 200 y 404
